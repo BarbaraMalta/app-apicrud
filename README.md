@@ -8,4 +8,4 @@
 
 <img src="./prints/swagger.jpeg" width="500">
 
-<img src="./prints/bg.jpeg" width="500">
+<img src="./prints/bd.jpeg" width="500">
