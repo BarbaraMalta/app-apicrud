@@ -7,7 +7,7 @@
 
 <img src="./prints/lista.png" width="400">
 
-<img src="./prints/swagger.jpeg" width="400">
+<img src="./prints/swagger.jpeg" width="500">
 
-<img src="./prints/bg.jpeg" width="400">
+<img src="./prints/bg.jpeg" width="500">
 </div>
